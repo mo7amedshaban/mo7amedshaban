@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7amedshaban)](https://github.com/mo7amedshaban/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7amedshaban)](https://github.com/mo7amedshaban/github-readme-stats&show_icons=true&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mo7amedshaban&repo=github-readme-stats)](https://github.com/mo7amedshaban/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/mo7amedshaban/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&layout=donut&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)](https://github.com/mo7amedshaban/github-readme-stats)
 <!--
 **mo7amedshaban/mo7amedshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
