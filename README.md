@@ -2,7 +2,7 @@
   <img height=200 align="left"  src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true" />
 </a>
 <a href="https://github.com/mo7amedshaban/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedshaban&layout=compact&langs_count=8&card_width=500" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedshaban&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!--
 **mo7amedshaban/mo7amedshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
