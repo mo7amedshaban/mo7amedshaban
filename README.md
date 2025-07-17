@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7amedshaban)](https://github.com/mo7amedshaban/github-readme-stats)
 <!--
 **mo7amedshaban/mo7amedshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
