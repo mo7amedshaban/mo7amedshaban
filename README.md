@@ -72,6 +72,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **mo7amedshaban/mo7amedshaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
