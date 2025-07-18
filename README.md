@@ -1,5 +1,8 @@
-### Mohmamed Shaban
+<div id="header" align="center">
 
+### Mohamed Shaban
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
@@ -91,9 +94,11 @@
 
 <div align="center">
   <a href="https://github.com/braydoncoyer">
-    <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
+    <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=fb8c01&bg_color=000000&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
   </a>
 </div>
+
+
 
 ---
 
