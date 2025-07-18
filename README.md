@@ -71,9 +71,21 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo7amedshaban&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&layout=compact&theme=vision-friendly-dark)](https://github.com/mo7amedshaban/github-readme-stats)
+<a href="https://github.com/mo7amedshaban/convoychat">
+  <img height=197 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=500&langs_count=10&layout=compact&theme=vision-friendly-dark" />
+</a>
+
+<div align="center">
+
+<a href="https://github.com/braydoncoyer">
+  <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
+</a>
+</div>
+
+<br>
 
 ---
+##pin
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -88,15 +100,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-##GitHub Stats -- >
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
+
 
 
 <!--START_SECTION:waka-->
