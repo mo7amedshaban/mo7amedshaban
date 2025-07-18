@@ -89,7 +89,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mo7amedshaban&theme=dark&background=000000)](https://git.io/streak-stats)
 <a href="https://github.com/mo7amedshaban/convoychat">
-  <img height=197 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=500&langs_count=10&layout=compact&theme=vision-friendly-dark" />
+  <img height=197 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=320&langs_count=10&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 <div align="center">
