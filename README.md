@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
+  
 </div>
 
 <div id="header" align="center">
@@ -15,8 +16,12 @@
  <a href="mailto:mohamedshabankhater@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mohamed-shaban.6d8eab0e)
+   
 </div>
 
+  
    
 </div>
 
@@ -76,13 +81,16 @@
 </a>
 
 <div align="center">
-
-<a href="https://github.com/braydoncoyer">
-  <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
-</a>
+  <a href="https://github.com/braydoncoyer">
+    <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
+  </a>
 </div>
 
 <br>
+
+
+
+
 
 ---
 ##pin
