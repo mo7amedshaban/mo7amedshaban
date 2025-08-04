@@ -31,7 +31,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- Full Stack Developer with experience in .NET Core, ASP.NET Core, React.js, Angular, Node.js, and Python. 
+- Full Stack Developer with experience in .Net, .NET Core, ASP.NET Core, Angular, React.js, Node.js, and Python. 
 
 - Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, Oracle, and GCP.
   
@@ -55,6 +55,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ECMAScript](https://img.shields.io/badge/ECMAScript-2023-blue?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
