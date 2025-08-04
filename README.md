@@ -109,15 +109,15 @@
 
 <div  align="center" style="display: flex; justify-content: spane-evenly; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&background=000000" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&card_width=390&background=000000" height="200" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=320&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=390&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
 
 </div>
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/braydoncoyer">
-    <img  height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=fb8c01&bg_color=000000&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
+    <img  height=200 align="center" style="margin-top:3px;" src="https://github-readme-stats.vercel.app/api?username=mo7amedshaban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=fb8c01&bg_color=000000&theme=vision-friendly-dark" alt="Mohamed's GitHub Stats" />
   </a>
 </div>
 
