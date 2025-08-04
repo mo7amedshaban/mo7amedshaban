@@ -32,7 +32,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- Full Stack Developer with experience in .Net, .NET Core, ASP.NET Core, Angular, React.js, Node.js, and Python. 
+- Full Stack Developer with experience in .NET, .NET Core, ASP.NET Core, Angular, React.js, Node.js, and Python. 
 
 - Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, Oracle, and GCP.
   
