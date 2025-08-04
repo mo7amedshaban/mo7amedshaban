@@ -88,11 +88,13 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&background=000000)](https://git.io/streak-stats)
+<div  align="center" style="display: flex; justify-content: spane-evenly; gap: 10px; flex-wrap: wrap;">
 
-<a href="https://github.com/mo7amedshaban/convoychat">
-  <img height=197 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=320&langs_count=10&layout=compact&theme=vision-friendly-dark" />
-</a>
+  <img src="https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&background=000000" height="200" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=320&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
+
+</div>
 
 <div align="center">
   <a href="https://github.com/braydoncoyer">
