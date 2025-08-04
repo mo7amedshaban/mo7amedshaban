@@ -1,10 +1,11 @@
 <h1 align="center">Mohamed Shaban</h1>
 
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+
+<h2 align="center">Software Engineer | Full Stack Developer </h2>
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=30D050&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=522bd4&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
   
 </div>
 
