@@ -1,11 +1,10 @@
-<div id="header" align="center">
+<h1 align="center">Mohamed Shaban</h1>
 
-### Mohamed Shaban
-
-</div>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=30D050&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
   
 </div>
 
@@ -84,6 +83,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ---
 
 ### :fire: My Stats :
@@ -123,6 +124,7 @@
 | IBM Full Stack Software Developer | IBM | [🔗 View Credential](https://coursera.org/share/292fbbb4f2cc61e8340bcd7d50152f3d) |
 
 </div>
+
 
 
 <!--
