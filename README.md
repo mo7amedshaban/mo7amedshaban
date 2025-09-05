@@ -113,7 +113,7 @@
 
   <img src="https://streak-stats.demolab.com/?user=mo7amedshaban&theme=dark&card_width=390&background=000000" height="200" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=390&langs_count=6&layout=compact&theme=vision-friendly-dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedshaban&card_width=390&langs_count=10&layout=compact&theme=vision-friendly-dark" height="195" />
 
 </div>
 
