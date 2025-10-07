@@ -135,6 +135,7 @@
 | Certification | Issuer | Credential |
 |---------------|--------|------------|
 | Azure Developer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/5B4E23FD60BABECF?sharingId=86B74E894C23BACB) |
+| Meta Full Stack Software Engineer  | Meta | [🔗 View Credential](https://www.credly.com/badges/3a13a38a-1a63-4407-81f3-6ae0ef72f3fa)
 | Azure AI Engineer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/4BC393793A0B4AA?sharingId=86B74E894C23BACB) |
 | Dynamics 365 Fundamentals (CRM) | Microsoft | [🔗 View Credential](https://www.credly.com/badges/485ee71a-010b-47d9-9f39-2dbe2c015a08/public_url) |
 | Power Platform Fundamentals | Microsoft | [🔗 View Credential](https://www.credly.com/badges/c7809c59-d078-4ae8-9223-231781c739c1/public_url) |
