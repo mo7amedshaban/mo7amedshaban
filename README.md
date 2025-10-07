@@ -146,17 +146,20 @@ Certified by Microsoft, IBM, and Meta with strong problem- solving and collabora
 
 ---
 
-## 📌 Pin Repro
+<br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/mo7amedshaban/GitHub-Profile-Viewer">
+  <img alt="GitHub Profile Viewer" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedshaban&repo=GitHub-Profile-Viewer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/mo7amedshaban/meta-frontend-project">
+  <img alt="Meta Frontend Project" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedshaban&repo=meta-frontend-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+</div>
 
 
 
