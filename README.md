@@ -146,11 +146,9 @@ Certified by Microsoft, IBM, and Meta with strong problem- solving and collabora
 
 ---
 
-<br>
-
 ## 📌 Pinned Repositories
 
-<div align="center">
+<div align="center" style="margin-top:3px;">
 
 <a href="https://github.com/mo7amedshaban/GitHub-Profile-Viewer">
   <img alt="GitHub Profile Viewer" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedshaban&repo=GitHub-Profile-Viewer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -169,6 +167,6 @@ Certified by Microsoft, IBM, and Meta with strong problem- solving and collabora
 <!--END_SECTION:waka-->
 
 
-<div align="center">
+<div align="center" style="margin-top:3px;">
   <img src="https://komarev.com/ghpvc/?username=mo7amedshaban&label=%20Visitors&color=FF6F00&style=for-the-badge" style="margin-top:10px" alt="Profile Views" />
 </div>
