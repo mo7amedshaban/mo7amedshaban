@@ -135,7 +135,6 @@
 | Certification | Issuer | Credential |
 |---------------|--------|------------|
 | Azure Developer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/5B4E23FD60BABECF?sharingId=86B74E894C23BACB) |
-
 | Azure AI Engineer Associate | Microsoft | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohamedShabanAbdeltawab-0059/4BC393793A0B4AA?sharingId=86B74E894C23BACB) |
 | Meta Full Stack Software Engineer  | Meta | [🔗 View Credential](https://www.credly.com/badges/3a13a38a-1a63-4407-81f3-6ae0ef72f3fa)
 | IBM Full Stack Software Developer | IBM | [🔗 View Credential](https://coursera.org/share/292fbbb4f2cc61e8340bcd7d50152f3d) |
