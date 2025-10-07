@@ -31,11 +31,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- Full Stack Developer with experience in .NET, .NET Core, ASP.NET Core, Angular, React.js, Node.js, and Python. 
-
-- Builds web apps with afocus on scalable cloud-native solutions across Azure, AWS, Oracle, and GCP.
-  
-- Certified by Microsoft, AWS, Oracle, and IBM. Pursuing an MSc in Computer Science & AI.
+Full Stack Developer experienced in building scalable web applications, API integrations, and database optimization. Certified by Microsoft, IBM, and Meta with strong problem- solving and collaboration skills
 
 
 ---
